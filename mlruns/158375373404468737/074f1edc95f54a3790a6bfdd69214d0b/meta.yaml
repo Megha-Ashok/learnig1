@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/158375373404468737/074f1edc95f54a3790a6bfdd69214d0b/artifacts
+end_time: 1738069282505
+entry_point_name: ''
+experiment_id: '158375373404468737'
+lifecycle_stage: active
+run_id: 074f1edc95f54a3790a6bfdd69214d0b
+run_name: polite-smelt-127
+run_uuid: 074f1edc95f54a3790a6bfdd69214d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738069276867
+status: 3
+tags: []
+user_id: Megha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509069940777285780/4dcf83df72664015882bca2c61dd93a6/artifacts
+deleted_time: 1738069659042
+end_time: 1738069409031
+entry_point_name: ''
+experiment_id: '509069940777285780'
+lifecycle_stage: deleted
+run_id: 4dcf83df72664015882bca2c61dd93a6
+run_name: efficient-jay-579
+run_uuid: 4dcf83df72664015882bca2c61dd93a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738069404364
+status: 3
+tags: []
+user_id: Megha

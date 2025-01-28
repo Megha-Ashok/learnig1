@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/463062770847882308/d64e964e152c45aa84d0e78841ba4d91/artifacts
+deleted_time: 1738078883022
+end_time: 1738069741822
+entry_point_name: ''
+experiment_id: '463062770847882308'
+lifecycle_stage: deleted
+run_id: d64e964e152c45aa84d0e78841ba4d91
+run_name: gaudy-fish-671
+run_uuid: d64e964e152c45aa84d0e78841ba4d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738069737525
+status: 3
+tags: []
+user_id: Megha

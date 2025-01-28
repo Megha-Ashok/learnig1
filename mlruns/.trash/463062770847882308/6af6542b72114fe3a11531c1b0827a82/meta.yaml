@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/463062770847882308/6af6542b72114fe3a11531c1b0827a82/artifacts
+deleted_time: 1738078883022
+end_time: 1738078486793
+entry_point_name: ''
+experiment_id: '463062770847882308'
+lifecycle_stage: deleted
+run_id: 6af6542b72114fe3a11531c1b0827a82
+run_name: debonair-hare-356
+run_uuid: 6af6542b72114fe3a11531c1b0827a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738078474985
+status: 3
+tags: []
+user_id: Megha

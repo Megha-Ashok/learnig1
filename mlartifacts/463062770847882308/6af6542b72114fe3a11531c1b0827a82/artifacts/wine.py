@@ -7,12 +7,10 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-experiment_name="wine-quality-predection"
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 # Load Wine dataset
 wine = load_wine()
-
 X = wine.data
 y = wine.target
 mlflow.autolog()
@@ -22,6 +20,9 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 # Define the params for RF model
 max_depth = 10
 n_estimators = 5
+
+
+
 
 # Create a new experiment
 mlflow.set_experiment("wine-quality-prediction")

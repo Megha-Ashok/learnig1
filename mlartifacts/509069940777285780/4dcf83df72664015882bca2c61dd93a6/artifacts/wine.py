@@ -7,15 +7,13 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-experiment_name="wine-quality-predection"
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 # Load Wine dataset
 wine = load_wine()
-
 X = wine.data
 y = wine.target
-mlflow.autolog()
+
 # Train test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
@@ -23,8 +21,12 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 max_depth = 10
 n_estimators = 5
 
+import mlflow
+experiment_name="wine_quality_prediction"
+experiment_id=mlflow.create_experiment(experiment_name)
+
 # Create a new experiment
-mlflow.set_experiment("wine-quality-prediction")
+mlflow.set_experiment(experiment_name)
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/463062770847882308/b74ec27f5fb34cba80d6071abd370e31/artifacts
+deleted_time: 1738078883022
+end_time: 1738069780687
+entry_point_name: ''
+experiment_id: '463062770847882308'
+lifecycle_stage: deleted
+run_id: b74ec27f5fb34cba80d6071abd370e31
+run_name: unleashed-newt-584
+run_uuid: b74ec27f5fb34cba80d6071abd370e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738069774268
+status: 3
+tags: []
+user_id: Megha
