@@ -59,3 +59,4 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print(accuracy)
+    print("abcd")
