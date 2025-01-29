@@ -20,8 +20,8 @@ mlflow.autolog()
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for RF model
-max_depth = 10
-n_estimators = 5
+max_depth = 20
+n_estimators = 10
 
 # Create a new experiment
 mlflow.set_experiment("wine-quality-prediction")
@@ -59,4 +59,4 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print(accuracy)
-    print("abcd")
+    
