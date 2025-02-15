@@ -1,7 +1,7 @@
 artifact_location: mlflow-artifacts:/158375373404468737
 creation_time: 1738069276667
 experiment_id: '158375373404468737'
-last_update_time: 1738069679638
-lifecycle_stage: active
+last_update_time: 1739631613347
+lifecycle_stage: deleted
 name: Wine-quality-prediction
 tags: {}

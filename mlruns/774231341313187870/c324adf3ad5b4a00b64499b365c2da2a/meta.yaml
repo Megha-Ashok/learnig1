@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/774231341313187870/c324adf3ad5b4a00b64499b365c2da2a/artifacts
+end_time: 1739631709928
+entry_point_name: ''
+experiment_id: '774231341313187870'
+lifecycle_stage: active
+run_id: c324adf3ad5b4a00b64499b365c2da2a
+run_name: salty-sloth-730
+run_uuid: c324adf3ad5b4a00b64499b365c2da2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739631695451
+status: 3
+tags: []
+user_id: Megha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/774231341313187870/c4b69b595785406f8d534b5a18213429/artifacts
+end_time: 1739631804671
+entry_point_name: ''
+experiment_id: '774231341313187870'
+lifecycle_stage: active
+run_id: c4b69b595785406f8d534b5a18213429
+run_name: rumbling-turtle-430
+run_uuid: c4b69b595785406f8d534b5a18213429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739631797477
+status: 3
+tags: []
+user_id: Megha
